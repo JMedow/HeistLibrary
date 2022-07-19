@@ -45,7 +45,7 @@
  */
 
 #define STATE_TIME  200     // How often to ask for the state
-#define ECHO_TIME 20         // How long to wait for an echo
+#define ECHO_TIME 50         // How long to wait for an echo
 
 // Pedestal Class
 
